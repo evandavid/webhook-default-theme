@@ -1,0 +1,844 @@
+{
+  "contentType": {
+    "building": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "address",
+          "locked": false,
+          "name": "address",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "building image url",
+          "locked": false,
+          "name": "building_image_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "building",
+      "oneOff": true,
+      "oneOffMD5": "4f2f59d94a2e468754966f013a82f67e"
+    },
+    "contacts": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "email",
+          "locked": false,
+          "name": "email",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "first name",
+          "locked": false,
+          "name": "first_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "last name",
+          "locked": false,
+          "name": "last_name",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "phone",
+          "locked": false,
+          "name": "phone",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "position",
+          "locked": false,
+          "name": "position",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "631a09ae3c807f3b3b9d862d9fd1159f",
+      "listMD5": "a30042032a24d9b586fb548a41543dd3",
+      "name": "contacts",
+      "oneOff": false
+    },
+    "documents": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment content type",
+          "locked": false,
+          "name": "attachment_content_type",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment file name",
+          "locked": false,
+          "name": "attachment_file_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment file size",
+          "locked": false,
+          "name": "attachment_file_size",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "attachment url",
+          "locked": false,
+          "name": "attachment_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d27e988ba43a5cfccb0f1ceb1d3cf961",
+      "listMD5": "3b74f151186a9d9502a48e73edf360b8",
+      "name": "documents",
+      "oneOff": false
+    },
+    "gallery": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "gallery",
+      "oneOff": true,
+      "oneOffMD5": "abb1c6ac26bfe48d931daa207b4dba1d"
+    },
+    "galleryimages": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "title",
+          "locked": false,
+          "name": "title",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "image file url",
+          "locked": false,
+          "name": "image_file_url",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d3cdaaeef2015bd8df00c0eaf9672d58",
+      "listMD5": "bbc5946efb3544f711aa3de17c3ca25a",
+      "name": "gallery-images",
+      "oneOff": false
+    },
+    "galleryvideos": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "gallery-videos",
+      "oneOff": true,
+      "oneOffMD5": "7a5357542f83a0a15478367653b4246e"
+    },
+    "location": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "",
+          "hidden": false,
+          "label": "idx",
+          "locked": false,
+          "name": "idx",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "web name",
+          "locked": false,
+          "name": "web_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "location",
+      "oneOff": true,
+      "oneOffMD5": "0696b35fae4a75558826a6b65f90122a"
+    },
+    "settings": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "logo light",
+          "locked": false,
+          "name": "logo_light",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "logo dark",
+          "locked": false,
+          "name": "logo_dark",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "owner logo dark",
+          "locked": false,
+          "name": "owner_logo_dark",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "owner logo light",
+          "locked": false,
+          "name": "owner_logo_light",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "tenant access url",
+          "locked": false,
+          "name": "tenant_access_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "tenant login url",
+          "locked": false,
+          "name": "tenant_login_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "settings",
+      "oneOff": true,
+      "oneOffMD5": "5b7457fe177bed9e639a832d33be9b68"
+    },
+    "sustainability": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "image url",
+          "locked": false,
+          "name": "image_url",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "sustainability",
+      "oneOff": true,
+      "oneOffMD5": "7938a891713f2651b95feb905d4c87fb"
+    },
+    "vacancies": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "area",
+          "locked": false,
+          "name": "area",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "availability",
+          "locked": false,
+          "name": "availability",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "email",
+          "locked": false,
+          "name": "email",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "level",
+          "locked": false,
+          "name": "level",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d2abac8da33262631d3d09a6926886ed",
+      "listMD5": "593c039655001d7ef44735b9cfa3124a",
+      "name": "vacancies",
+      "oneOff": false
+    }
+  }
+}

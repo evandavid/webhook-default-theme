@@ -1,0 +1,33 @@
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-header">
+      <a href="/" class="navbar-brand click-on-home">
+      <img src="{{ cms.settings.logo_dark  }}"/>
+    </a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav pull-right hidden-xs">
+        <li class="active"><a href="about/building">BUILDING PROFILE</a></li>
+        <li><a href="{{ cms.settings.tenant_access_url }}">TENANT PORTAL</a></li>
+      </ul>
+    </div>
+    <ul class="nav navbar-nav pull-right visible-xs mobile-nav">
+      <li><a href="#" class="menubars mobile-nav-btn"><i class="fa fa-bars"></i></a></li>
+    </ul>
+    <div class="mobile-navigation visible-xs">
+      <ul>
+        <li class="hasChild"><a href="#" class="parent-nav-btn">BUILDING PROFILE<i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></a>
+          <ul class="child">
+            <li><a href="/about/building" class="submenu">THE BUILDING</a></li>
+            <li><a href="/about/sustainability" class="submenu">SUSTAINABILITY</a></li>
+            <li><a href="/about/gallery" class="submenu">GALLERY</a></li>
+            <li><a href="/about/vacancies" class="submenu">VACANCIES</a></li>
+            <li><a href="/about/downloads" class="submenu">DOWNLOADS</a></li>
+            <li><a href="/about/contacts" class="submenu">CONTACTS</a></li>
+          </ul>
+        </li>
+        <li><a href="{{  cms.settings.tenant_access_url }}">TENANT PORTAL</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

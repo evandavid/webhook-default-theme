@@ -1,0 +1,42 @@
+{% extends "templates/partials/about.html" %}
+{% block content %}
+<div id="sidebar">
+    <a href="/about/building" class="active">
+        THE BUILDING<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/sustainability">
+        SUSTAINABILITY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/gallery">
+        GALLERY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/vacancies">
+        VACANCIES<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/downloads">
+        DOWNLOADS<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/contacts">
+        CONTACTS<i class="fa fa-angle-right"></i>
+    </a>
+</div>
+<div id="aboutContent">
+  <h1>The Building</h1>
+  <div class="row">
+    <div class="col-sm-5">
+        <img alt="The Building photo" src="{{cms.building.building_image_url}}" class="about-img"/>
+    </div>
+    <div class="col-sm-7">
+      <h3 class="strong">{{cms.location.name}}</h3>
+      <p>{{cms.building.description | raw}}</p>
+    </div>
+  </div>
+</div>
+<div id="aboutSubContent">
+  <h3>Building Location</h3>
+  <div ng-if="item" class="flexi-container map">
+      <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.au/maps?&amp;aq=f&amp;ie=UTF8&amp;hl=en&amp;t=m&amp;z=15&amp;output=embed&q={{cms.building.address}}"></iframe>
+  </div>
+  <p class="location"><i class="icomoon-location"></i><span style="font-size: .9em;color: #7E7E7E;">{{cms.building.address}}</span></p>
+</div>
+{% endblock %}

@@ -1,0 +1,53 @@
+{% extends "templates/partials/about.html" %}
+{% block content %}
+
+<div id="sidebar">
+    <a href="/about/building" >
+        THE BUILDING<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/sustainability" >
+        SUSTAINABILITY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/gallery" >
+        GALLERY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/vacancies" >
+        VACANCIES<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/downloads" >
+        DOWNLOADS<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/contacts" class="active">
+        CONTACTS<i class="fa fa-angle-right"></i>
+    </a>
+</div>
+
+<div id="aboutContent">
+  <h1>Contacts</h1>
+  <p>{{cms.contact.description}}</p>
+  <div class="contacts-list">
+    {% for contact in cms.contacts %}
+    {% if cms.contacts.length == 0%}
+    <div ng-hide="contacts" class="well">There are no contacts currently avaliable.</div>
+    {% endif %}
+    {% endfor %}
+    <table ng-show="contacts" class="table table-striped">
+      <thead>
+        <tr>
+          <th>Contact</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for contact in cms.contacts %}
+        <tr >
+          <td>
+            <h5 style="margin-bottom:0;">{{contact.first_name}} {{contact.last_name}}<br/>{{contact.position}}</h5>
+            <p style="color: #A6A6A6;margin-bottom:0;">{{contact.phone}}</p><a href="mailto:{{contact.email}}" analytics-on="click" analytics-event="{{tracking.about.contacts.contact.actions.clickEvent}}" analytics-name="{{contact.email}}">{{contact.email}}</a>
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

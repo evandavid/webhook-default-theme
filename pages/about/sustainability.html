@@ -1,0 +1,33 @@
+{% extends "templates/partials/about.html" %}
+{% block content %}
+
+<div id="sidebar">
+    <a href="/about/building" >
+        THE BUILDING<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/sustainability" class="active">
+        SUSTAINABILITY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/gallery" >
+        GALLERY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/vacancies" >
+        VACANCIES<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/downloads" >
+        DOWNLOADS<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/contacts" >
+        CONTACTS<i class="fa fa-angle-right"></i>
+    </a>
+</div>
+<div id="aboutContent">
+  <h1>Sustainability</h1>
+  <div class="row">
+    <div class="col-sm-9">
+      <p>{{ cms.sustainability.description | raw }}</p>
+    </div>
+    <div class="col-sm-3"><img alt="Sustainability Image" src="{{cms.sustainability.image_url']}}" class="about-img"/></div>
+  </div>
+</div>
+{% endblock %}

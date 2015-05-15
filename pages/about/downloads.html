@@ -1,0 +1,38 @@
+{% extends "templates/partials/about.html" %}
+{% block content %}
+
+<div id="sidebar">
+    <a href="/about/building" >
+        THE BUILDING<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/sustainability">
+        SUSTAINABILITY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/gallery" >
+        GALLERY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/vacancies" >
+        VACANCIES<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/downloads" class="active">
+        DOWNLOADS<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/contacts" >
+        CONTACTS<i class="fa fa-angle-right"></i>
+    </a>
+</div>
+<div id="aboutContent">
+  <h1>Downloads</h1>
+  <p> {{ cms.download.description }}</p>
+  <div class="downloads">
+    {% for document in cms.documents %}
+    {% if cms.documents.length == 0%}
+    <div class="well">There are no documents currently avaliable.</div>
+    {% endif %}
+    <div class="download document">
+      <h4><a target="_blank" href="{{document.attachment_url}}" analytics-on="click" analytics-event="{{tracking.about.downloads.download.actions.clickEvent}}" analytics-name="{{document.name}}" analytics-url="{{document.attachment_url}}"><i class="fa fa-file-text-o"></i> {{document.name}}</a><small class="download-info"> ({{document.attachment_file_size}}kb)</small></h4>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

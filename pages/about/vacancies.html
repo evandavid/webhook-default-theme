@@ -1,0 +1,65 @@
+{% extends "templates/partials/about.html" %}
+{% block content %}
+
+<div id="sidebar">
+    <a href="/about/building" >
+        THE BUILDING<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/sustainability">
+        SUSTAINABILITY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/gallery">
+        GALLERY<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/vacancies" class="active">
+        VACANCIES<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/downloads" >
+        DOWNLOADS<i class="fa fa-angle-right"></i>
+    </a>
+    <a href="/about/contacts" >
+        CONTACTS<i class="fa fa-angle-right"></i>
+    </a>
+</div>
+<div id="aboutContent">
+  <h1>Vacancies</h1>
+  {% for vacancy in cms.vacancies %}
+  {% if cms.vacancies.length == 0%}
+    <div ng-hide="vacancies" class="well">There are no vacancies currently avaliable.</div>
+  {% endif %}
+  <div class="media visible-xs">
+    <div class="media-body">
+      <p class="bold marginless">Area</p>
+      <p class="margin-bottom">{{vacancy.area}}m<sup>2</sup></p>
+      <p class="bold marginless">Available</p>
+      <p class="margin-bottom">{{vacancy.availability}}</p>
+      <p class="bold marginless">Description</p>
+      <p class="margin-bottom">{{vacancy.description}}</p><a href="mailto:{{vacancy.email}}" analytics-on="click" analytics-event="{{tracking.about.vacancies.enquire.actions.clickEvent}}" analytics-name="{{vacancy.description}}" class="btn">Enquire</a>
+    </div>
+  </div>
+  {% endfor %}
+
+  <table ng-show="vacancies" class="table table-striped table-bordered vacancies-table hidden-xs">
+    <thead>
+      <tr>
+        <th align="center">Area</th>
+        <th align="center">Available</th>
+        <th>Description</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for vacancy in cms.vacancies %}
+      <tr>
+        <td align="center" style="vertical-align:middle;" class="span1">{{vacancy.area}}m<sup>2</sup></td>
+        <td align="center" style="vertical-align:middle;" class="span2">{{vacancy.availability}}</td>
+        <td class="span9 description">
+          <p> {{vacancy.description}}</p>
+        </td>
+        <td valign="middle"><a href="mailto:{{vacancy.email}}" analytics-on="click" analytics-event="{{tracking.about.vacancies.enquire.actions.clickEvent}}" analytics-name="{{vacancy.description}}" class="btn">Enquire</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

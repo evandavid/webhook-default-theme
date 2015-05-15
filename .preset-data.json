@@ -1,0 +1,1245 @@
+{
+  "data": {
+    "building": {
+      "_sort_create_date": 1431670229425,
+      "_sort_last_updated": 1431670229425,
+      "_sort_publish_date": 1431670229425,
+      "address": "60 Margaret Street Sydney 2000",
+      "building_image_url": "https://assets.inlink.io/cms/about_buildings/building_images/000/000/532/original/sustainability.jpg?1430109751",
+      "create_date": "2015-05-15T06:10:29.425Z",
+      "description": "<b>THE TOWER</b><br>Positioned on a prime corner site on George and Margaret streets, this landmark building both status and visibility, unfettered access to the central CBD’s most vibrant urban &amp; professional quarter.&nbsp;<br><br><span>This landmark building provides column free workspaces, the buildings wrap around windows bring in superb views across all points of the compass to the city, Sydney Harbour and Botanic Gardens.<br><br><b>THE RETAIL</b><br></span>Metcentre is conveniently located on George Street in the heart of Sydney’s CBD with pedestrian entrances also from Jamison and Margaret Streets, with direct linkage to Wynyard station and walking distance to Circular Quay.&nbsp;<br><br>Metcentre offers a comprehensive selection of retailers in the areas of; fashion, services, gift and home wares, fresh food as well as an international food court. Home to over 80 retailers spanning two levels you’re sure to find what you are looking for.<span><br><br></span>",
+      "last_updated": "2015-05-15T06:10:29.426Z",
+      "name": "B5xKkAKc",
+      "preview_url": "5398183e-5930-4a63-97ca-aa84ddcd2f86"
+    },
+    "contacts": {
+      "0gcT3nlZ": {
+        "_sort_create_date": 1431670229426,
+        "_sort_last_updated": 1431670229426,
+        "_sort_publish_date": 1431670229426,
+        "create_date": "2015-05-15T06:10:29.426Z",
+        "email": "Talei.Fotofili@colliers.com",
+        "first_name": "Talei",
+        "isDraft": false,
+        "last_name": "Fotofili",
+        "last_updated": "2015-05-15T06:10:29.426Z",
+        "name": "xUCZxEbR",
+        "phone": "(02) 9259 0907",
+        "position": "Operations Manager",
+        "preview_url": "762c03fe-1969-4831-bed4-cbfd9fedd984",
+        "publish_date": "2015-05-15T06:10:29.426Z"
+      },
+      "13JvyeNI": {
+        "_sort_create_date": 1431670229426,
+        "_sort_last_updated": 1431670229426,
+        "_sort_publish_date": 1431670229426,
+        "create_date": "2015-05-15T06:10:29.426Z",
+        "email": "Chris.Killeen@colliers.com",
+        "first_name": "Chris",
+        "isDraft": false,
+        "last_name": "Killeen",
+        "last_updated": "2015-05-15T06:10:29.426Z",
+        "name": "Ix56anH6",
+        "phone": "(02) 9259 0900",
+        "position": "Engineering Manager",
+        "preview_url": "3b6a1fb4-6891-46e2-bdef-9e6c33a1ec38",
+        "publish_date": "2015-05-15T06:10:29.426Z"
+      },
+      "2CaHookz": {
+        "_sort_create_date": 1431670229426,
+        "_sort_last_updated": 1431670229426,
+        "_sort_publish_date": 1431670229426,
+        "create_date": "2015-05-15T06:10:29.426Z",
+        "email": "metcentre.security@scgs.com.au",
+        "first_name": "Metcentre",
+        "isDraft": false,
+        "last_name": "Security",
+        "last_updated": "2015-05-15T06:10:29.426Z",
+        "name": "Rm07YesT",
+        "phone": "(02) 9259 0900",
+        "position": "Security Control",
+        "preview_url": "ff40499f-5af4-4dd5-bc8d-b6459b16781f",
+        "publish_date": "2015-05-15T06:10:29.426Z"
+      },
+      "3C9uhrpp": {
+        "_sort_create_date": 1431670229426,
+        "_sort_last_updated": 1431670229426,
+        "_sort_publish_date": 1431670229426,
+        "create_date": "2015-05-15T06:10:29.426Z",
+        "email": "josie.hodgson@colliers.com",
+        "first_name": "Josie",
+        "isDraft": false,
+        "last_name": "Hodgson",
+        "last_updated": "2015-05-15T06:10:29.426Z",
+        "name": "f0081nLP",
+        "phone": "(02) 9259 0900",
+        "position": "Property Manager",
+        "preview_url": "13e465e7-fe18-4bdf-bf31-9fbb5941b26e",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "4972Nrws": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "60margaret.maintenance@colliers.com",
+        "first_name": "Michael",
+        "isDraft": false,
+        "last_name": "Sayers",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "fQUMMfvY",
+        "phone": "(02) 9259 0906",
+        "position": "Operations Manager",
+        "preview_url": "b79d564d-1561-4f5a-bd8a-ffe6f118f058",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "57SSXcBK": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "bill.bassal@scgs.com.au",
+        "first_name": "Bill",
+        "isDraft": false,
+        "last_name": "Bassal",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "5Ae5yGbV",
+        "phone": "(02) 9259 0999",
+        "position": "Security Manager",
+        "preview_url": "52177b31-2242-40e9-82dd-dbcc08b0f69c",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "6y13icxI": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "60margaret.concierge@colliers.com",
+        "first_name": "Travis",
+        "isDraft": false,
+        "last_name": "McKinnon",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "XuWpV5ZL",
+        "phone": "(02) 9259 0900",
+        "position": "Concierge",
+        "preview_url": "c3a73244-b153-49be-a4d2-ec43e2648c65",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "7P9fnUEI": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "metcentre@quadservices.com.au",
+        "first_name": "Anne",
+        "isDraft": false,
+        "last_name": "Faatui",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "xLSPdIxe",
+        "phone": "0425 046 973",
+        "position": "Site Cleaning Supervisor",
+        "preview_url": "2130cb9b-3d2a-485e-944e-388df022a524",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "8O0wu7uA": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "josephine.jones@colliers.com",
+        "first_name": "Josephine",
+        "isDraft": false,
+        "last_name": "Jones",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "0k2U0Ec8",
+        "phone": "(02) 9259 0900",
+        "position": "Reception/Office Manager",
+        "preview_url": "13a1e5e5-6c9c-409f-91d3-69cd1e3f3420",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      },
+      "92n5vOgv": {
+        "_sort_create_date": 1431670229427,
+        "_sort_last_updated": 1431670229427,
+        "_sort_publish_date": 1431670229427,
+        "create_date": "2015-05-15T06:10:29.427Z",
+        "email": "sally.dare@colliers.com",
+        "first_name": "Sally",
+        "isDraft": false,
+        "last_name": "Dare",
+        "last_updated": "2015-05-15T06:10:29.427Z",
+        "name": "U3COibYh",
+        "phone": "(02) 9259 0904",
+        "position": "General Manager",
+        "preview_url": "d46780a4-7e71-400a-a837-9e805624dd90",
+        "publish_date": "2015-05-15T06:10:29.427Z"
+      }
+    },
+    "documents": {
+      "0CBSdorF": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "attachment_content_type": "application/pdf",
+        "attachment_file_name": "THE_RETAIL.pdf",
+        "attachment_file_size": "129493",
+        "attachment_url": "https://assets.inlink.io/cms/documents/attachments/000/000/045/original/THE_RETAIL.pdf?1429754658",
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "Retail",
+        "preview_url": "c8cb378f-4bd9-4f8b-9f53-9d01b392434e",
+        "publish_date": "2015-05-15T06:10:29.428Z"
+      }
+    },
+    "gallery": {
+      "_sort_create_date": 1431670229428,
+      "_sort_last_updated": 1431670229428,
+      "_sort_publish_date": 1431670229428,
+      "create_date": "2015-05-15T06:10:29.428Z",
+      "description": "Its prime corner site on George and Margaret Streets ensures this landmark building both status and visibility, with unfettered access to the central CBD’s most vibrant urban and professional quarter.",
+      "last_updated": "2015-05-15T06:10:29.428Z",
+      "name": "gallery",
+      "preview_url": "b79ad63c-3848-487c-a706-debca563f144"
+    },
+    "galleryimages": {
+      "0Kr1NO8V": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/240/original/gallery1-1429753998.jpg?1429753998",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "He5EZIMC",
+        "preview_url": "ab703d8a-364a-4a64-9da0-45bf2ab64cb8",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "16pnAGY3": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/241/original/gallery2-1429754007.jpg?1429754007",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "7JP6ONN1",
+        "preview_url": "b1eac773-1698-484f-92d5-60c055b96d9a",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "2dpC2kV8": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/242/original/gallery3-1429754015.jpg?1429754015",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "xd9MRHWM",
+        "preview_url": "5ffe47ca-9a80-479b-907f-5d3584f68d2e",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "33IgMIWW": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/243/original/gallery4-1429754024.jpg?1429754024",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "iH9Zztpe",
+        "preview_url": "e90e4408-57de-4e18-80ba-cc63548c0e6b",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "497e1tgS": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/244/original/gallery5-1429754033.jpg?1429754033",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "Megqo3oP",
+        "preview_url": "c154822c-17ec-4800-a685-c195ac463945",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "57U100zI": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/245/original/gallery6-1429754042.jpg?1429754042",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "gf6Pv3iN",
+        "preview_url": "a9527f57-87c9-416a-a857-e675bf5bbd93",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      },
+      "6ayt1ZRO": {
+        "_sort_create_date": 1431670229428,
+        "_sort_last_updated": 1431670229428,
+        "_sort_publish_date": 1431670229428,
+        "create_date": "2015-05-15T06:10:29.428Z",
+        "image_file_url": "https://assets.inlink.io/cms/gallery_images/image_files/000/000/246/original/gallery7-1429754052.jpg?1429754052",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.428Z",
+        "name": "O1Zyid53",
+        "preview_url": "15f838c5-c177-4d52-83ca-7a0fb19343ca",
+        "publish_date": "2015-05-15T06:10:29.428Z",
+        "title": "Gallery"
+      }
+    },
+    "location": {
+      "_sort_create_date": 1431670229428,
+      "_sort_last_updated": 1431670229428,
+      "_sort_publish_date": 1431670229428,
+      "create_date": "2015-05-15T06:10:29.428Z",
+      "idx": "504",
+      "last_updated": "2015-05-15T06:10:29.428Z",
+      "name": "60 Margaret Street",
+      "preview_url": "42c6a6d2-2376-481a-9a24-440037762afd",
+      "web_name": "60MargaretStreet"
+    },
+    "settings": {
+      "_sort_create_date": 1431670200,
+      "_sort_last_updated": 1431671700,
+      "_sort_publish_date": 1431670229433,
+      "create_date": "2015-05-15T13:10:00+07:00",
+      "description": "A highly regarded A grade building in the heart of Sydney’s pre-eminent business district.",
+      "last_updated": "2015-05-15T13:35:00+07:00",
+      "logo_dark": "/static/images/logo_black.png",
+      "logo_light": "/static/images/logo_white.png",
+      "name": "60 MARGARET",
+      "owner_logo_dark": "/static/images/logo_mirvac_black.png",
+      "owner_logo_light": "/static/images/logo_mirvac_white.png",
+      "preview_url": "ed4ae5db-c208-400d-bf72-d0da30e1939c",
+      "tenant_access_url": "https://portals.inlink.io/60margaret",
+      "tenant_login_url": "http://www.60margaretstreet.com.au/Core/Pages/SiteSpecific/60Margaret/Login.aspx"
+    },
+    "sustainability": {
+      "_sort_create_date": 1431670229428,
+      "_sort_last_updated": 1431670229429,
+      "_sort_publish_date": 1431670229429,
+      "create_date": "2015-05-15T06:10:29.429Z",
+      "description": "<h3>PREMIUM SERVICES</h3><h4>Lifts</h4><span>The modernisation of the lift system provides one of the smartest lift control systems in the world. Unlike conventional lifts where the passenger must wait to first get into the lift before placing a call to their floor, the new system knows where the passenger is travelling through the information programmed on their swipe card.&nbsp;<br><br></span><h4>Auxiliary Services</h4>60 Margaret Street provides a full range of premium services to ensure a high standard of comfort and efficiency for all tenants. A number of these services include:<ul><li>A full digital Building Automation System (BAS) enabling building management to monitor services such as the Air conditioning unit.</li><li>Security and access control to perimeter, doors and lifts.</li><li>Digital CCTV systems for improved security,</li><li>Security personnel on-site 24/7 day monitoring and patrolling the Tower</li><li>Emergency generator support to house and some tenant essential power.</li><li>Permanent on-site building management team, including a qualified engineer.</li></ul><span><h3><br></h3><h3>PARKING</h3>The building provides more than 140 undercover secure tenant parking bays with after-hours access. The car park is currently operated by Secure Parking.&nbsp;<br><br>60 Margaret Street recognises the growing demand for cyclists and will provide over 40 fully secured bike racks centrally in the security carpark, with additional spaces to be installed as demand increases.</span><br><br>",
+      "image_url": "https://assets.inlink.io/cms/sustainabilities/images/000/000/529/original/sustainability-1430106425.jpg?1430106425",
+      "last_updated": "2015-05-15T06:10:29.429Z",
+      "name": "sustainability",
+      "preview_url": "9d11fc92-7d5c-42dc-9dd9-cd89f955094f"
+    },
+    "vacancies": {
+      "0kqzpHhJ": {
+        "_sort_create_date": 1431670229429,
+        "_sort_last_updated": 1431670229432,
+        "_sort_publish_date": 1431670229432,
+        "area": "448.6",
+        "availability": "2015-04-23",
+        "create_date": "2015-05-15T06:10:29.432Z",
+        "description": "Part floor, to be refurbished with&nbsp;Wynyard Park views.",
+        "email": "vacanices@60margaret.com.au",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.433Z",
+        "level": "16",
+        "name": "D3Oq1QCG",
+        "preview_url": "b5a07c92-68c4-49f0-b8f9-a05fabeba8de",
+        "publish_date": "2015-05-15T06:10:29.433Z"
+      },
+      "1QuklmQQ": {
+        "_sort_create_date": 1431670229433,
+        "_sort_last_updated": 1431670229433,
+        "_sort_publish_date": 1431670229433,
+        "area": "1275.0",
+        "availability": "2015-04-23",
+        "create_date": "2015-05-15T06:10:29.433Z",
+        "description": "Fully refurbished with whole floor&nbsp;harbour/CBD views (high rise)<br>",
+        "email": "vacancies@60margaret.com.au",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.433Z",
+        "level": "34",
+        "name": "yLPmiTZ4",
+        "preview_url": "87ab2150-eb4c-4f96-8ead-66df0acb9719",
+        "publish_date": "2015-05-15T06:10:29.433Z"
+      },
+      "205Y1vRE": {
+        "_sort_create_date": 1431670229433,
+        "_sort_last_updated": 1431670229433,
+        "_sort_publish_date": 1431670229433,
+        "area": "454.5",
+        "availability": "2015-04-23",
+        "create_date": "2015-05-15T06:10:29.433Z",
+        "description": "Part floor, refurbished office space with harbour/CBD views (high rise)",
+        "email": "vacancies@60margaret.com.au",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.433Z",
+        "level": "36",
+        "name": "d5uc3vzO",
+        "preview_url": "a2b6a457-5bff-4bb6-81e3-9a1f9d1a1ce2",
+        "publish_date": "2015-05-15T06:10:29.433Z"
+      },
+      "3bV0lAN2": {
+        "_sort_create_date": 1431670229433,
+        "_sort_last_updated": 1431670229433,
+        "_sort_publish_date": 1431670229433,
+        "area": "243.8",
+        "availability": "2015-04-23",
+        "create_date": "2015-05-15T06:10:29.433Z",
+        "description": "Part floor, refurbished office space with harbour/CBD views (high rise)",
+        "email": "vacancies@60magaret.com.au",
+        "isDraft": false,
+        "last_updated": "2015-05-15T06:10:29.433Z",
+        "level": "36",
+        "name": "bOsH2Stx",
+        "preview_url": "c8ae7e1e-482f-47bf-89d7-275b45220a90",
+        "publish_date": "2015-05-15T06:10:29.433Z"
+      }
+    }
+  },
+  "settings": {},
+  "contentType": {
+    "building": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "address",
+          "locked": false,
+          "name": "address",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "building image url",
+          "locked": false,
+          "name": "building_image_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "building",
+      "oneOff": true,
+      "oneOffMD5": "4f2f59d94a2e468754966f013a82f67e"
+    },
+    "contacts": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "email",
+          "locked": false,
+          "name": "email",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "first name",
+          "locked": false,
+          "name": "first_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "last name",
+          "locked": false,
+          "name": "last_name",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "phone",
+          "locked": false,
+          "name": "phone",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "position",
+          "locked": false,
+          "name": "position",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "631a09ae3c807f3b3b9d862d9fd1159f",
+      "listMD5": "a30042032a24d9b586fb548a41543dd3",
+      "name": "contacts",
+      "oneOff": false
+    },
+    "documents": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment content type",
+          "locked": false,
+          "name": "attachment_content_type",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment file name",
+          "locked": false,
+          "name": "attachment_file_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "attachment file size",
+          "locked": false,
+          "name": "attachment_file_size",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "attachment url",
+          "locked": false,
+          "name": "attachment_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d27e988ba43a5cfccb0f1ceb1d3cf961",
+      "listMD5": "3b74f151186a9d9502a48e73edf360b8",
+      "name": "documents",
+      "oneOff": false
+    },
+    "gallery": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "gallery",
+      "oneOff": true,
+      "oneOffMD5": "abb1c6ac26bfe48d931daa207b4dba1d"
+    },
+    "galleryimages": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "title",
+          "locked": false,
+          "name": "title",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "image file url",
+          "locked": false,
+          "name": "image_file_url",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d3cdaaeef2015bd8df00c0eaf9672d58",
+      "listMD5": "bbc5946efb3544f711aa3de17c3ca25a",
+      "name": "gallery-images",
+      "oneOff": false
+    },
+    "galleryvideos": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "gallery-videos",
+      "oneOff": true,
+      "oneOffMD5": "7a5357542f83a0a15478367653b4246e"
+    },
+    "location": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "",
+          "hidden": false,
+          "label": "idx",
+          "locked": false,
+          "name": "idx",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "web name",
+          "locked": false,
+          "name": "web_name",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "location",
+      "oneOff": true,
+      "oneOffMD5": "0696b35fae4a75558826a6b65f90122a"
+    },
+    "settings": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "logo light",
+          "locked": false,
+          "name": "logo_light",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "logo dark",
+          "locked": false,
+          "name": "logo_dark",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "owner logo dark",
+          "locked": false,
+          "name": "owner_logo_dark",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "owner logo light",
+          "locked": false,
+          "name": "owner_logo_light",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "tenant access url",
+          "locked": false,
+          "name": "tenant_access_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "tenant login url",
+          "locked": false,
+          "name": "tenant_login_url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "settings",
+      "oneOff": true,
+      "oneOffMD5": "5b7457fe177bed9e639a832d33be9b68"
+    },
+    "sustainability": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "image url",
+          "locked": false,
+          "name": "image_url",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "sustainability",
+      "oneOff": true,
+      "oneOffMD5": "7938a891713f2651b95feb905d4c87fb"
+    },
+    "vacancies": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "area",
+          "locked": false,
+          "name": "area",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "availability",
+          "locked": false,
+          "name": "availability",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "description",
+          "locked": false,
+          "name": "description",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "email",
+          "locked": false,
+          "name": "email",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "level",
+          "locked": false,
+          "name": "level",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "d2abac8da33262631d3d09a6926886ed",
+      "listMD5": "593c039655001d7ef44735b9cfa3124a",
+      "name": "vacancies",
+      "oneOff": false
+    }
+  }
+}
